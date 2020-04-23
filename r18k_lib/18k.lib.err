@@ -1,0 +1,20 @@
+Loaded 18491 explicit pairs
+Will check for: ['GAAGAGC', 'GCTCTTC', 'GCAGTG', 'CACTGC', 'GAGACC', 'GGTCTC', 'GGCGCGCC', 'CCGCGCGG', 'GAATTC', 'CTTAAG', 'GAAGAC', 'GTCTTC']
+Dropping codons that are less frequent than 0.05
+Generating variants...
+Number of Variants: 2
+Number of Variants: 4
+Number of Variants: 8
+Number of Variants: 16
+Number of Variants: 32
+Number of Variants: 64
+Number of Variants: 128
+Number of Variants: 256
+Number of Variants: 512
+Number of Variants: 1024
+Number of Variants: 2048
+Number of Variants: 4096
+Number of Variants: 8192
+Number of Variants: 16384
+Mean loops for X - 1.0651127575577308
+Mean loops for Y - 1.06419339137959

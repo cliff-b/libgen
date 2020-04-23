@@ -1,0 +1,13 @@
+Generating all pairwise members
+Will check for: ['GAAGAGC', 'GCTCTTC', 'GCAGTG', 'CACTGC', 'GAGACC', 'GGTCTC']
+Dropping codons that are less frequent than 0.05
+Generating variants...
+Number of Variants: 2
+Number of Variants: 4
+Number of Variants: 8
+Number of Variants: 16
+Number of Variants: 32
+Number of Variants: 64
+Number of Variants: 128
+Mean loops for X - 1.0
+Mean loops for Y - 1.0
